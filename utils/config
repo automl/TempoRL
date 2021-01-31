@@ -1,0 +1,38 @@
+data:
+  local: "."
+  remote: "path_to_remote"
+plotting:
+  color_map:
+    sq: 4
+    q: 2
+    dqn: 2
+    dar: 1
+    tqn: 4
+    tdqn: 4
+    t-dqn: 4
+    DDPG: 5
+    t-DDPG: 9
+    f-DDPG: 7
+  palette: "colorblind"
+  seaborn:
+    style: "darkgrid"
+    context:
+      context: "paper"
+      font scale: 1
+      font: "Arial"
+      rc:
+        grid.linewidth: 4
+        axes.labelsize: 32
+        axes.titlesize: 32
+        legend.fontsize: 28
+        lines.linewidth: 4
+        xtick.labelsize: 32
+        ytick.labelsize: 32
+      rc2:
+        grid.linewidth: 6
+        axes.labelsize: 64
+        axes.titlesize: 64
+        legend.fontsize: 35
+        lines.linewidth: 6
+        xtick.labelsize: 62
+        ytick.labelsize: 62
