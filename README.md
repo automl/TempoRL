@@ -86,6 +86,6 @@ replace tdqn (our agent with shared network architecture) with dqn or dar to run
 ## Experiment data
 ##### Note: This data is required to run the plotting jupyter notebooks
 We provide all learning curve data, final policy network weights as well as commands to generate that data at:
-https://figshare.com/s/d9264dc125ca8ba8efd8 (private and anonymous link)
+https://figshare.com/s/d9264dc125ca8ba8efd8
 
 (Download this data and move it into the experiments folder)
