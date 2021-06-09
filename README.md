@@ -1,5 +1,21 @@
 # TempoRL
 
+This repository contains the code for the ICML'21 paper "TempoRL: Learning When to Act"
+If you use TempoRL in you research or application, please cite us:
+
+```bibtex
+@inproceedings{biedenkapp-icml21,
+  author    = {André Biedenkapp and Raghu Rajan and Frank Hutter and Marius Lindauer},
+  title     = {{T}empo{RL}: Learning When to Act},
+  booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML 2021)},
+  year = {2021},
+  month     = jul,
+}
+```
+
+## Appendix
+The appendix PDF has been uploaded to this repository and can be accessed [here](TempoRL_Appendix.pdf).
+
 ## Setup
 This code was developed with python 3.6.12 and torch 1.4.0.
 If you have the correct python version you need to install the dependencies via
