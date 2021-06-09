@@ -1,6 +1,6 @@
 # TempoRL
 
-This repository contains the code for the ICML'21 paper "TempoRL: Learning When to Act"
+This repository contains the code for the ICML'21 paper "[TempoRL: Learning When to Act](https://ml.informatik.uni-freiburg.de/papers/21-ICML-TempoRL.pdf)"
 If you use TempoRL in you research or application, please cite us:
 
 ```bibtex
